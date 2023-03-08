@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Ivan, I'm a QA 👋
 
 <!--
 **IAndreev-QA/IAndreev-QA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
